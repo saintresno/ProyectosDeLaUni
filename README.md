@@ -1,8 +1,13 @@
 # ProyectosDeLaUni
-repositorio para proyectos de la Uni
+repositorio para proyectos de la Unil.
 
 Clases de:
-1.pensamiento algoritmico
+
+1.pensamiento algoritmico.
+
 2.estructura y bases de datos.
-3.practicas
-4.Programación orientada a objetos (pdf de portafolio)
+
+3.practicas.
+
+4.Programación orientada a objetos (pdf de portafolio).
+
